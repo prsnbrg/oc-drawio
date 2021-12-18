@@ -28,7 +28,7 @@ endif
 PHPUNIT="$(PWD)/lib/composer/phpunit/phpunit/phpunit"
 
 drawio_doc_files=COPYING.txt screenshot.png
-drawio_src_dirs=appinfo img css js lib templates
+drawio_src_dirs=appinfo img css js l10n lib templates
 drawio_all_src=$(drawio_src_dirs) $(drawio_doc_files)
 build_dir=build
 dist_dir=$(build_dir)/dist
