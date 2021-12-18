@@ -8,6 +8,7 @@
 	"Error: Failed to load the file!" : "Fehler: Die Datei konnte nicht geladen werden!",
 	"Saving..." : "Speichern...",
 	"Saved" : "Gespeichert",
-	"Error: Could not save file!" : "Fehler: Datei konnte nicht gespeichert werden!"
+	"Error: Could not save file!" : "Fehler: Datei konnte nicht gespeichert werden!",
+    "There was an error loading the diagram file. Check permissions and try again." : "Es ist ein Fehler beim Laden der Diagrammdatei aufgetreten. Überprüfen Sie die Berechtigungen und versuchen Sie es erneut."
 },"pluralForm" :"nplurals=2; plural=(n != 1);"
 }
